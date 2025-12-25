@@ -10,6 +10,11 @@
 - **Web MIDI Output**: Streams MIDI CC messages directly to your system's MIDI ports.
 - **Minimalist Design**: A clean, distraction-free HUD that stays out of your way.
 
+
+<img width="1266" height="671" alt="Screenshot 2025-12-25 at 18 08 11" src="https://github.com/user-attachments/assets/b5b83a3f-77bf-4b53-be07-a360087f998b" />
+
+<img width="1352" height="797" alt="Screenshot 2025-12-25 at 18 08 24" src="https://github.com/user-attachments/assets/1439d966-c886-47b5-bcda-cced7a0472fb" />
+
 ## How it Works
 
 1. **Draw**: Use a dark pen or marker on white paper.
