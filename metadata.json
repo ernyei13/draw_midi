@@ -1,0 +1,7 @@
+{
+  "name": "drawMidi",
+  "description": "Sketch analog MIDI controllers on paper and perform in real-time using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
